@@ -2,7 +2,7 @@ import React from 'react'
 
 function Section7() {
   return (
-    <div className=' pl-16  h-screen relative bg-white'>
+    <div className=' pl-16  h-[400px] relative bg-white'>
       <div className=" text-black font-bold text-2xl border-b-2 mr-36 border-black h11">
         <h1>Did some cool stuff for</h1>
       </div>
@@ -26,7 +26,7 @@ function Section7() {
             <h2>Forex library</h2>
         </div>
       </div>
-      <div className=" animate  rotate-icon victory flex left-[80%] top-[40%] pr-4 absolute">
+      <div className=" animate  rotate-icon victory flex left-[80%] top-[50%] pr-4 absolute">
         <img className='w-[170px]' src="src/assets/victory.svg" alt="" />
       </div>
     </div>
